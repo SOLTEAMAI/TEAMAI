@@ -57,7 +57,7 @@ Deploy autonomous AI agents to revolutionize your Solana trading and token creat
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/SOLTEAMAI.git
+   git clone https://github.com/SOLTEAMAI/TEAMAI.git
    cd SOLTEAMAI
    ```
 
@@ -335,7 +335,7 @@ We welcome contributions from the community. Please follow these steps:
 2. **Clone Your Fork**
 
    ```bash
-   git clone https://github.com/yourusername/SOLTEAMAI.git
+   git clone https://github.com/SOLTEAMAI/TEAMAI.git
    cd SOLTEAMAI
    ```
 
