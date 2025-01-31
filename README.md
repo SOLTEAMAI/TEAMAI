@@ -7,7 +7,7 @@ Deploy autonomous AI agents to revolutionize your Solana trading and token creat
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/solteamai?style=social)](https://twitter.com/solteamai)
 [![GitHub Repo stars](https://img.shields.io/github/stars/solteamai/teamai?style=social)](https://github.com/solteamai/teamai)
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/solteamai/framework/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/solteamai/teamai/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 ## Table of Contents
