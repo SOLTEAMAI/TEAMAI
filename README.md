@@ -5,6 +5,9 @@
 Deploy autonomous AI agents to revolutionize your Solana trading and token creation. From idea generation and image creation to market analysis, token deployment, and community engagement, our intelligent agents work 24/7 to optimize your crypto operations while maintaining full compliance and security.
 
 ---
+![Twitter Follow](https://img.shields.io/twitter/follow/SOLTeamAI?style=social)
+![GitHub stars](https://img.shields.io/github/stars/SOLTEAMAI/TEAMAI?style=social)
+![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Table of Contents
 
